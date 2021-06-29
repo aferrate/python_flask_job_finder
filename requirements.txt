@@ -1,0 +1,6 @@
+flask
+redis
+Flask-WTF
+wtforms
+requests
+beautifulsoup4
