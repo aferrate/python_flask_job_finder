@@ -5,7 +5,7 @@ import json
 
 from flask import Flask, render_template
 from flask_wtf import FlaskForm
-from wtforms import StringField, IntegerField, SubmitField
+from wtforms import StringField, SubmitField
 from wtforms.validators import DataRequired
 from bs4 import BeautifulSoup
 
