@@ -11,5 +11,3 @@ run docker:
 
 access localhost:
 - [http://localhost](http://localhost)
-
-test
